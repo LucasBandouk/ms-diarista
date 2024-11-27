@@ -1,2 +1,3 @@
 def somar(a,b):
-    return a+b
+    total = a+b
+    return total
