@@ -1,7 +1,7 @@
 # test_app.py
 
 import unittest
-from app import soma
+from ex import soma
 
 class TestApp(unittest.TestCase):
 
